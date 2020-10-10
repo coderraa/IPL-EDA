@@ -1,8 +1,11 @@
 # IPL-EDA
+**@author *Rahul Singh***
+
 As a fan of **IPL** I have done some EDA for IPL.
+
 The data is from 2008-2017
 
-![ipl](https://user-images.githubusercontent.com/57325166/95168599-2bd5f900-07cf-11eb-851f-5ad622048a35.jpg)
+![IPL EDA (1)](https://user-images.githubusercontent.com/57325166/95665564-3bf32d00-0b6f-11eb-8502-2c47d59dc5ab.gif)
 
 
-@author *Rahul Singh* 
+ 
